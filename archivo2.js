@@ -1,2 +1,4 @@
 let dos = 2
-console.log("dos")
+
+let tres = 3
+console.log(`el resutado de esta suma ${dos} + ${tres} es  igual : `, dos + tres )
